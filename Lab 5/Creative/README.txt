@@ -1,0 +1,1 @@
+The fucntion of mycode.asm is to subtract 2 with 2
